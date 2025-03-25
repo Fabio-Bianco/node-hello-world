@@ -1,2 +1,2 @@
-console.log(process.argv);
-console.log("Il tuo messaggio è:", process.argv[2]);
+const massage = process.argv[2];
+console.log("Il tuo messaggio è:", massage);
